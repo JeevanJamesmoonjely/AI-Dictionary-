@@ -1,12 +1,5 @@
-here# 🌌 AI Tools Directory (Free • Categorized • Dark Mode)
-
-A beautifully designed, dark-themed directory of 100+ **free AI tools** across categories like writing, design, image, video, code, productivity, and more. Easily browse and discover powerful AI tools with direct links.
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/ai-tools-directory?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ai-tools-directory)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-tools-directory?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-tools-directory?style=social)
-
+##🌌 AI Tools Directory 
+(Free • Categorized • Dark Mode)
 ---
 
 ## 🚀 Features
