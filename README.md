@@ -27,6 +27,6 @@
 
 ## 🌐 Live Demo
 
-🔗 [Visit the AI Tools Directory](https://yourusername.github.io/ai-tools-directory)
+🔗https://JeevanJamesmoonjely.github.io/AI-Dictionary-/
 
 ---
